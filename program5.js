@@ -13,23 +13,3 @@ fs.readdir(filepath, function(err, list) {
     }
   }
 })
-
-<<<<<<< HEAD
-// And some better code combining the original code and the official solution.
-=======
-// and some better code combining the original code and the official solution.
->>>>>>> 65c8976a8cbaa123631aefdf0d64c6dcfbc8173a
-
-/*
-fs.readdir(filepath, function (err, list) {
-  list.forEach(function (file) {
-    if (path.extname(file) === '.' + extension)
-      console.log(file)
-<<<<<<< HEAD
-  });
-});
-=======
-  })
-})
-*/
->>>>>>> 65c8976a8cbaa123631aefdf0d64c6dcfbc8173a
