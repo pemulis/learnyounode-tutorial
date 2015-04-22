@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 var fs = require('fs');
 var path = require('path');
 
@@ -39,3 +40,11 @@ module.exports = function (filepath, ext, callback) {
   });
 }
 */
+=======
+require 'fs'
+require 'path'
+
+function showList(dir, ext, callback) {
+  
+}
+>>>>>>> 65c8976a8cbaa123631aefdf0d64c6dcfbc8173a
